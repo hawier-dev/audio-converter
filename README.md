@@ -1,11 +1,11 @@
 # Audio converter
 Simple program to convert audio files.
 
-Currently supported audio formats:
-- mp3
-- flac
-- wav
-- ogg
+- Currently supported audio formats:
+    - mp3
+    - flac
+    - wav
+    - ogg
 
 ## Usage:
 ```
